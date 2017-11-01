@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1040134943183",
+    "firebase_url": "https://emsalert-6bc7a.firebaseio.com",
+    "project_id": "emsalert-6bc7a",
+    "storage_bucket": "emsalert-6bc7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040134943183:android:9a26038e232d6199",
+        "android_client_info": {
+          "package_name": "com.capstone.cs595.emsalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040134943183-df6pu25g1hg0cqapgmortk76siqb7t94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrxkeBwTrd4FNXubWnL7SexobfncK3aCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
