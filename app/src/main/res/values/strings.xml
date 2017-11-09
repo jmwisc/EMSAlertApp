@@ -4,6 +4,16 @@
     <string name="title_activity_settings">Settings</string>
     <string name="log_out">Log Out</string>
     <string name="notifications">Do Not Disturb</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="pass">Password</string>
+    <string name="cprnum">CPR Number</string>
+    <string name="cprdate">CPR Date</string>
+    <string name="register">Register</string>
+    <string name="pass2">Password Confirm</string>
+    <string name="login">Login</string>
+    <string name="create">Create an Account</string>
+
 
     <!-- Strings related to Settings -->
 
