@@ -13,6 +13,7 @@
     <string name="pass2">Password Confirm</string>
     <string name="login">Login</string>
     <string name="create">Create an Account</string>
+    <string name="background">background</string>
 
 
     <!-- Strings related to Settings -->

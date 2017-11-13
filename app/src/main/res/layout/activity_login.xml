@@ -4,7 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.capstone.cs595.emsalert.LoginActivity">
+    tools:context="com.capstone.cs595.emsalert.LoginActivity"
+    android:background="@drawable/background"
+    >
 
     <EditText
         android:id="@+id/etUsername"
