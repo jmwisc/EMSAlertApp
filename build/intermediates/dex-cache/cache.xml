@@ -25,8 +25,17 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
-        sha1="72cf9454bf66fbdd6758f43144b49c6c44e0bcbf">
+        sha1="b0573d1bf6519cc774e1f8031cfb04257424345f">
         <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2874cfb9968f14886b32e1b64dbbca76e580304e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JJM\.android\build-cache\e4d93f9501a972d02ebd7a142ac87a5bee86ab35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da408ec0abc0b9160723827146320e37d9ce3967\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -72,6 +81,24 @@
         revision="26.0.2"
         sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
         <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\pre-dexed\debug\classes_d1a02dab2b568a82de596b230d1f53d85742706f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JJM\.android\build-cache\f5c648ce8356343094594aaf0dfdb1fda251e565\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bed7b583b449b1d8fc03844b8bfee3c4b10fdab6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JJM\.android\build-cache\65301b5f3a753a0726a7574b46100bba83b316ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\JJM\AndroidStudioProjects\EMSAlert\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1845072d0c811fb2455ec1aa62fde13d91ab75e0\classes.dex" />
     </item>
 
 </items>
